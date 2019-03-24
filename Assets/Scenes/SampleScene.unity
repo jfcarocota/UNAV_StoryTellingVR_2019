@@ -274,6 +274,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sapphiart_model
       objectReference: {fileID: 0}
+    - target: {fileID: 100098, guid: 4f6b12e90531eaa4cb360f1dd60c3ab2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100100, guid: 4f6b12e90531eaa4cb360f1dd60c3ab2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 400234, guid: 4f6b12e90531eaa4cb360f1dd60c3ab2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
